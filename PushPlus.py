@@ -6,7 +6,7 @@ import string
 import json
 
 
-token = '你的 token' #在 http://www.pushplus.plus/push1.html 复制
+token = '265527e2b1c24156bd7c671dc4ef0b76' #在 http://www.pushplus.plus/push1.html 复制
 
 parser = argparse.ArgumentParser(description='Beacon Info')
 parser.add_argument('--computername')
